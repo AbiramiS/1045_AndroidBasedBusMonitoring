@@ -1,0 +1,16 @@
+1. Name (Project heading) : 1045_BusMaintaining
+
+2. Remote Centre ID (RC_ID) : 1045
+
+3. College / Institute Name : Saveetha Engineering College
+
+4. City, State, Pin Code : Thandalam,Tamil Nadu,Chennai 602105,
+
+5. Name/’s of the Student : Mrs. R.Bhuvaneswari, M.Tech,
+
+Team Members: K.DHANALAKSHMI,R.SUDHADEVI
+
+6. About (Short Description / Summary):
+
+	Presently, public traffic system mainly depends on driver’s manual operation, which will inevitably encounter many problems such as punctuality of the bus’s arrival on bus station. Project proposes an supervisory system based on GPRS and ZigBee technology, to improve the operation efficiency of bus monitoring system and realize intelligent transportation system. This project introduces the bus monitoring system from the aspect of both hardware design and software design. System takes it into accounts for the respective advantages and disadvantages of GPRS and ZigBee, and designs a feasible solution successfully, of practically significant. Buses are provided by the Government as a public service, quality of which will directly determine the convenience of public travel. It is an important criterion for qualify of service standards that bus reaches the station on time and reports which station it is located accurately. Presently at the original station and terminal station, punctuality can be guaranteed because of dedicated staffs on duty there. However, for most of the middle stations, punctuality can not be guaranteed and also, it is difficult to be assessed. It might be a good idea using the GPS system for monitoring the bus when moving, but to expand the scope of GPS usage is actually difficult due to the high cost of GPS system. For the time being, reporting bus station is to rely on driver’s manual operation, so making a mistake and misleading passengers is inevitable when driving the bus. To solve that, project provides a solution; it develops a system of bus monitoring and management based on ZigBee and GPRS technology.
+
